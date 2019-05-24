@@ -1,0 +1,2 @@
+#skip .docx files which were the originals
+*.docx
